@@ -1,0 +1,36 @@
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.exe
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.deps.json
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.runtimeconfig.json
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.pdb
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ShapesLibrary.pdb
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.csproj.AssemblyReference.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.AssemblyInfoInputs.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.AssemblyInfo.cs
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.csproj.CoreCompileInputs.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.csproj.CopyComplete
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\refint\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.pdb
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.genruntimeconfig.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ref\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.exe
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.deps.json
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.runtimeconfig.json
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ConsoleApp-AreaCalculation2.pdb
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\bin\Debug\net6.0\ShapesLibrary.pdb
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.csproj.AssemblyReference.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.AssemblyInfoInputs.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.AssemblyInfo.cs
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.csproj.CoreCompileInputs.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.csproj.CopyComplete
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\refint\ConsoleApp-AreaCalculation2.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.pdb
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ConsoleApp-AreaCalculation2.genruntimeconfig.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ConsoleApp-AreaCalculation2\obj\Debug\net6.0\ref\ConsoleApp-AreaCalculation2.dll

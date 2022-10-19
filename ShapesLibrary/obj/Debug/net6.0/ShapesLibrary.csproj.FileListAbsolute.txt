@@ -1,0 +1,24 @@
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.deps.json
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.pdb
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.csproj.AssemblyReference.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.AssemblyInfoInputs.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.AssemblyInfo.cs
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\refint\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.pdb
+D:\Users\Alexandra\Desktop\WORK\MyTestWork\Mindbox\ConsoleApp-AreaCalculation2\ShapesLibrary\obj\Debug\net6.0\ref\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.deps.json
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\bin\Debug\net6.0\ShapesLibrary.pdb
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.csproj.AssemblyReference.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.AssemblyInfoInputs.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.AssemblyInfo.cs
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\refint\ShapesLibrary.dll
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ShapesLibrary.pdb
+D:\Users\Alexandra\Desktop\WORK\- Work-Search\TestWork\Mindbox\Result\TestovoeForMindBox\ShapesLibrary\obj\Debug\net6.0\ref\ShapesLibrary.dll
