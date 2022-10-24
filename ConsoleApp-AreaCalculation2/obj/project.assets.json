@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Alexandra\\Desktop\\WORK\\- Work-Search\\TestWork\\Mindbox\\Result\\TestovoeForMindBox\\ConsoleApp-AreaCalculation2\\ConsoleApp-AreaCalculation2.csproj",
-      "projectName": "ConsoleApp-AreaCalculation2",
-      "projectPath": "D:\\Users\\Alexandra\\Desktop\\WORK\\- Work-Search\\TestWork\\Mindbox\\Result\\TestovoeForMindBox\\ConsoleApp-AreaCalculation2\\ConsoleApp-AreaCalculation2.csproj",
+      "projectUniqueName": "D:\\Users\\Alexandra\\Desktop\\WORK\\- Work-Search\\TestWork\\Mindbox\\Result\\TestovoeForMindBox\\ConsoleApp-AreaCalculation2\\ConsoleApp-CheckShapesLibrary.csproj",
+      "projectName": "ConsoleApp-CheckShapesLibrary",
+      "projectPath": "D:\\Users\\Alexandra\\Desktop\\WORK\\- Work-Search\\TestWork\\Mindbox\\Result\\TestovoeForMindBox\\ConsoleApp-AreaCalculation2\\ConsoleApp-CheckShapesLibrary.csproj",
       "packagesPath": "C:\\Users\\Alexandra\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\Alexandra\\Desktop\\WORK\\- Work-Search\\TestWork\\Mindbox\\Result\\TestovoeForMindBox\\ConsoleApp-AreaCalculation2\\obj\\",
       "projectStyle": "PackageReference",

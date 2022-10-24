@@ -67,10 +67,9 @@ foreach (FieldInfo field in type.GetFields(
 if (type != null)
 {
     var figure = (Shape?)Activator.CreateInstance(type, parameters);
-    Console.WriteLine(figure?.CalcArea());
+    Console.WriteLine("S(area) = " + figure?.CalcArea());
 }
 else
 {
     Console.WriteLine("Неверный тип");
 }
-

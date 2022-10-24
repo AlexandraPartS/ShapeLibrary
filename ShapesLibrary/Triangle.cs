@@ -46,7 +46,7 @@ namespace ShapesLibrary
             C = c;
         }
 
-        private double PrecisionlimitationConvert(double value) => (double)(Math.Truncate((decimal)a * 1000000000m) / 1000000000m);
+        private double PrecisionlimitationConvert(double value) => (double)(Math.Truncate((decimal)value * 1000000000m) / 1000000000m);
 
         private void ErrorArgumentOutOfRangeExceptionGenerate(double value)
         {
@@ -73,7 +73,7 @@ namespace ShapesLibrary
 
         public bool TriangleIsRight()
         {
-            double[] sidesarr = new double[3] {a, b, c};
+            double[] sidesarr = {a, b, c};
             Array.Sort(sidesarr);
 
             return sidesarr[2] == Math.Sqrt(sidesarr[0] * sidesarr[0] + sidesarr[1] * sidesarr[1]);

@@ -7,7 +7,6 @@
         public double Radius
         {
             get => radius;
-            //
             protected internal set => radius = value; 
         }
 
