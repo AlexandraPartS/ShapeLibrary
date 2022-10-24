@@ -80,7 +80,7 @@ namespace ShapesLibrary
         }
 
         public override void ShowData() => Console.WriteLine("" +
-            "Triangle block :\n" +
+            "\nTriangle block :\n" +
             "For sides : {0}, {1}, {2} \n" +
             "Right Triangle : {3}\n" +
             "S(area) = {4}", 

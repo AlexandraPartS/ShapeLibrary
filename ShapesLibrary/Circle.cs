@@ -30,7 +30,7 @@
         public override double CalcArea() => Math.PI * Radius * Radius;
 
         public override void ShowData() => Console.WriteLine("" +
-            "Circle block:\n" +
+            "\nCircle block:\n" +
             "R = {0} \n" +
             "S(area) = {1}", 
             this.Radius, this.CalcArea());

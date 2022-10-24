@@ -38,7 +38,7 @@ catch (Exception e)
     Console.WriteLine("\nTriangle block : Calculation error\n" + e.Message);
 }
 
-
+Console.WriteLine();
 /// <summary>  
 /// Calculating area of figure in compile-time
 /// Implementati without try-catch
